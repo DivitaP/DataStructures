@@ -71,3 +71,68 @@ class stack {
         }
     }
 }
+// Divitas-MacBook-Air:java divita$ javac stack.java
+// Divitas-MacBook-Air:java divita$ java stack
+// Please select one:
+// 1.PUSH 2.POP 3.DISPLAY 4.PEEK 5.Exit
+// 1
+// Enter value to be pushed:
+// 10
+// Please select one:
+// 1.PUSH 2.POP 3.DISPLAY 4.PEEK 5.Exit
+// 1
+// Enter value to be pushed:
+// 20
+// Please select one:
+// 1.PUSH 2.POP 3.DISPLAY 4.PEEK 5.Exit
+// 1
+// Enter value to be pushed:
+// 30
+// Please select one:
+// 1.PUSH 2.POP 3.DISPLAY 4.PEEK 5.Exit
+// 1
+// Enter value to be pushed:
+// 40
+// Please select one:
+// 1.PUSH 2.POP 3.DISPLAY 4.PEEK 5.Exit
+// 1
+// Enter value to be pushed:
+// 50
+// Please select one:
+// 1.PUSH 2.POP 3.DISPLAY 4.PEEK 5.Exit
+// 3
+// |  10  |
+// |  20  |
+// |  30  |
+// |  40  |
+// |  50  |<-top
+// Please select one:
+// 1.PUSH 2.POP 3.DISPLAY 4.PEEK 5.Exit
+// 2
+// Popped value is: 50
+// Please select one:
+// 1.PUSH 2.POP 3.DISPLAY 4.PEEK 5.Exit
+// 3
+// |  10  |
+// |  20  |
+// |  30  |
+// |  40  |<-top
+// Please select one:
+// 1.PUSH 2.POP 3.DISPLAY 4.PEEK 5.Exit
+// 4
+// Value of top stack is: 40
+// Please select one:
+// 1.PUSH 2.POP 3.DISPLAY 4.PEEK 5.Exit
+// 1
+// Enter value to be pushed:
+// 60
+// Please select one:
+// 1.PUSH 2.POP 3.DISPLAY 4.PEEK 5.Exit
+// 3
+// |  10  |
+// |  20  |
+// |  30  |
+// |  40  |
+// |  60  |<-top
+// Please select one:
+// 1.PUSH 2.POP 3.DISPLAY 4.PEEK 5.Exit
