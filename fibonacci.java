@@ -1,3 +1,9 @@
+/*
+This program is for getting nth number in the fibonacci series 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144,...
+Used HashMap in java
+Implementation using dynamic programming, memoization of the values
+*/
+
 import java.io.*;
 import java.util.*;
 
